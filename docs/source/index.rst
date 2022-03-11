@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Bienvenu sur la documentation de Twake !
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

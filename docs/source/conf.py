@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Twake'
+copyright = '2021, Twake'
+author = 'Twake'
 
 release = '0.1'
 version = '0.1.0'
@@ -17,7 +17,14 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser'
 ]
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),

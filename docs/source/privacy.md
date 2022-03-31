@@ -1,3 +1,3 @@
-# Privacy
+# Politique de confidentialité
 
-This page is currently Work In Progress.
+Cette page est en cours de rédaction

@@ -1,27 +1,28 @@
 ---
-description: How to add connector on Twake
+description: Comment ajouter un connecteur à Twake
 ---
 
-# Connectors
+# Connecteurs
 
 
 ## n8n
 
-### How to connect Twake with n8n
+### Comment connecter n8n à Twake
 
-n8n is a powerful workflow automation tool wich can be self hosted : [n8n.io](https://n8n.io)
+n8n est un puissant outil d'automatisation de workflow pouvant être hebergé soi-même : [n8n.io](https://n8n.io)
 
 ![n8n interface](../../assets/image.png)
 
-#### Install n8n in Twake
+#### Installer n8n dans Twake
 
-Install your n8n application in your workspace and get your key : 
+Pour installer votre application n8n dans votre espace de travail et obtenir votre clé : 
 
 ![](../../assets/how-to-install-n8n.gif)
 
+Attention, l'admin entreprise doit avoir autorisé l'installation de n8n et vous devez avoir au moins le rôle d'admin de votre espace de travail pour y installer le connecteur n8n
 
+#### Créer vos identifiants dans n8n
 
-#### Create your credential on n8n
-
+Suivez les étapes présentées dans le gif ci-dessous :
 ![](../../assets/n8n-implement.gif)
 

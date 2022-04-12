@@ -113,5 +113,5 @@ Pour donner le rôle d'invité à un utilisateur, modifiez son rôle dans la con
 
 ![](../assets/setguest.gif)
 
-
+//Nécessaire de préciser ici comment inviter un utilisateur externe avec le statut "Invité" par défaut; nécessaire de l'ajouter d'abord dans la console, puis changer ses droits?
 

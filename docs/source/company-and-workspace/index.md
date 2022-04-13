@@ -76,7 +76,7 @@ Pour donner le rôle d'admin, ouvrez la console \([https://console.twake.app](ht
 Ce rôle est celui de l'admin de l'équipe. En plus des droits d'un utilisateur classique, il peut:
 
 * Ajouter des membres à l'espace de travail
-* Ajouter/enlever des connecteurs et application de l'espace de travail
+* Ajouter\/enlever des connecteurs et application de l'espace de travail
 * Changer l'identité de l'espace de travail
 * Supprimer l'espace de travail
 
@@ -105,9 +105,9 @@ Comme c'est le rôle par défaut, c'est le rôle attribué à tout utilisateur q
 
 Ce rôle est prévu pour les partenaires externes à l'organisation qui nécessitent un accès à Twake dans le cadre d'un projet ou sujet spécifique. Un utilisteur invité peut:
 
-* Lire et envoyer des messages dans les canaux auxquels il a été invité
+* Lire et envoyer des messages dans les chaînes auxquelles il a été invité
 
-En tant qu'invité, ils ne peuvent pas rejoindre n'importe quel canal par eux même - même s'il est public. Ils doivent être invités par un utilisateur ayant au moins le droit Utilisateur.
+En tant qu'invité, ils ne peuvent pas rejoindre n'importe quelle chaîne par eux même - même s'il est public. Ils doivent être invités par un utilisateur ayant au moins le droit Utilisateur.
 
 Pour donner le rôle d'invité à un utilisateur, modifiez son rôle dans la console \([https://console.twake.app](https://console.twake.app)\), en passant par la page `Utilisateurs`.
 

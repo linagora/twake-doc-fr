@@ -1,123 +1,109 @@
 ---
-description: How Twake chat is working
+description: Fonctionnement du chat Twake
 ---
 
 # Chat
 
-The discussion application  are Twake's entry points. This is where you communicate with your team.
-
-{% page-ref page="channels.md" %}
-
-{% page-ref page="message.md" %}
+Le chat est le coeur de Twake : c'est ici que vous communiquez avec votre équipe, les deux notions fondamentalles sont les suivantes:
+- Chaine de discussion
+- Message
 
 
-## Channels
+## Chaînes
 
-### Create a channel
+### Créée une chaîne
 
-To create a channel, you must have `Administrator` rights for the workspace in question. 
+Pour créer une chaîne, vous devez avoir le rôle d'administrateur de l'espace de travail en question.
 
-{% page-ref page="../../company-and-workspace/rights.md" %}
+Pour créer une chaîne, cliquez sur le bouton `+` à droite du titre `Chaînes`, puis `Créer une chaîne`, entrez le nom de la nouvelle chaîne, sélectionnez l'emoji qui vous plaît le plus, et la confidentialité de la chaîne publique ou privée).
 
-To create your channel, click on the `+` button right to the "Channel" inscription. Fill a name for your channel, select a wonderful emoji and select if it is a public or private channel \(by default, channels are private\).
+### Organisation des chaînes
 
-### Channel sections
+Vous pouvez organiser vos chaînes en les regroupant. Si vous avez le rôle d'`Administrateur`, vous pouvez faire glisser une chaîne dans la barre de menu à gauche et la déposer dans la section souhaitée: `Ajouter ici` ou dans `Nouveau groupe`.
 
-You can organize your channel by grouping them. If you are `Administrator`, you can drag a channel and drop in the section you want `Add here` or in `New group`. 
-
-To edit section name, you just have to click on it, change the name and press `Enter`
+Pour éditer le nom d'une section, vous pouvez cliquer dessus, modifier le nom et confirmer en cliquant sur `Entrée`.
 
 ![](../../assets/channel-move.gif)
 
-### Public channel
+### Chaîne publique
 
-Public channels are visible to all members of the workspace.
+Les chaînes publiques sont visible pour tous les membres de l'espace de travail.
 
-### Private channel
+### Chaîne privée
 
-Private channels are channels accessible only to a limited number of users. Members not present in these channels cannot see them.
+Les chaînes privées ne sont accessibles qu'à un nombre limité d'utiilsateurs qui doivent y être invités. Les utilisateurs non présent dans ces chaînes ne peuvent pas les voir dans leur espace de travail.
 
+#### Modifier la liste des membres d'une chaîne privée
 
-
-#### Modify the members of a private channel
-
-You can choose the members of a private channel when creating it. To modify the members of a private channel once created, place your mouse on the channel, click on the `...` then on `Edit channel`, in the `Participants` box, you can add or remove the members of the channel.
+Vous pouvez choisir les membres d'une chaîne privée lors de sa création. Pour modifier la liste des membres une fois la chaîne créée, placez votre curseur sur la chaîne, cliquez sur le bouton `...` puis cliquez sur `Participants`, vous pourrez ensuite modifier la liste des membres en ajoutant ou enlevant des participants.
 
 ![](../../assets/private-channel-member.gif)
 
-### External member
+### Gestion des invités
 
-You have the possibility to invite external members to your channel. External members are members who are not in the workspace and who are added to one, or more,  specific channel\(s\). 
-
-This feature is useful for inviting users who are not in your company. Freelancers, for example, can be added to a specific channel to collaborate on a project. They will only have access to this channel, they will not see public channels.
+Vous pouvez inviter des membres externes à votre espace de travail dans votre chaîne. Ces membres externes peuvent être ajoutés à une ou plusieurs chaîne\(s\)
+Cette fonctionnalité est pratique pour inviter des utilisateurs qui ne font pas partie de votre entreprise. Vous pouvez par exemple inviter dans une chaîne dédiée des freelances pour collaborer ensemble sur un projet spécifique. Ils n'auront alors accès qu'aux chaînes auxquels ils sont invités et ne verront pas les chaînes publiques.
 
 ![](../../assets/externalmember.gif)
 
-### Mute a channel
+### Mettre une chaîne en sourdine
 
-You can mute a channel so that you do not receive notification of it. You will not receive a new notification from that channel unless you are mentioned \(with @username\). To do it, click on `...` and `Mute`a barred bell icon will appear.
+Vous pouvez mettre une chaîne en sourdine pour ne recevoir que certaines  notifications à son sujet : tous les messages, seulement ceux où vous êtes tagués \(via @username\), aucun, etc.
+Pour ce faire, placez votre curseur sur la chaîne, cliquez sur le bouton `...`, puis sur `Notifications` et sélectionnez le mode de notification qui vous convient. Si vous mettez la chaîne complètement en sourdine, une icône de cloche barrée apparettra.
 
-### Star a channel
+### Mettre une chaîne en favoris
 
-If a channel is very important for you, you can star it. Stared channels are gathered at the top of your channel. It is only for your view, not for everyone. To star a channel click on `...` and `Star this channel`. Your channel will be move to the stared channel section \(at the top\).
+Si une châine est importante pour vous, vous pouvez la mettre en favoris. Les chaînes en favoris sont regroupées en haut de la barre de menu dans une section dédiée.
+Vous seul pouvez voir les chaînes que vous avez en favoris.
+Pour mettre une chaîne en favoris, placez votre curseur sur la chaîne, cliquez sur le bouton `...`, puis sur `Ajouter aux favoris`. La chaîne sera alors déplacée dans la section favoris, et une icône d'étoile apparaitra à côté de son nom.
 
 
 
 
-## Message
+## Messages
 
-### Send a message
+### Envoyer un message
 
-To send a message, select the channel where you want to post. In the input message, write what you want to send. Press `enter` to send the message.
-
-If you want to add a new line to your message, press `Shift + Enter`.
+Pour envoyer un message, sélectionnez la chaîne dans laquelle vous souhaitez poster. Cliquez sur `Commencer une nouvelle discussion` si vous souhaitez lancer une nouvelle discussion, ou sur `Répondre` pour répondre à une discussion déjà en cours. Entrez votre message et appuyez sur `Entrée` pour l'envoyer.
+Des outils de mise en forme du message sont disponibles, vous pouvez par ailleurs créer une nouvelle ligne via le raccourci clavier `Maj + Entrée`.
 
 ![](../../assets/sendmessage.gif)
 
-#### Pin
+#### Épingler un message
 
-If one of the message is important for the team, you can pin it \(or unpin\)
+Si un message est important pour l'équipe, il est possible de l'épingler \(ou le désépingler\).
 
 ![](../../assets/pinmessage.gif)
 
-#### Reaction
+#### Réactions aux messages
 
-You can react to a message with emoji. Click on the `Emoji button` in message to show emoji picker.
+Vous pouvez réagir aux message avec un ou plusieurs émoji. Survolez le message avec votre curseur, et sélectionnez le ou les émoji souhaités dans le sélectionneur. Vous pouvez aussi cliquer sur les émoji déjà présents pour réagir avec ce même émoji.
 
-#### Response to a message
+#### Répondre à un message
 
-Someone ask you a question ? You can answer it by clicking `Answer` below the message.
+Dans le cadre d'une discussion déjà entamée, vous pouvez y participer et répondre à une sollicitation en cliquant sur `Répondre` en bas de cette conversation?
 
 ![](../../assets/responsemessage.gif)
 
-#### Reorganize your chat
 
-You can reorganize your chat by dragging and dropping your messages. 
+#### Voir un fil de discussion
 
-![](../../assets/d-and-dmessage.gif)
+Vous pouvez afficher un fil de discussion dans une vue dédiée. Survolez le message avec votre curseur, et cliquez sur `Afficher`. Un panneau s'affiche à droite de l'écran avec le fil de discussion souhaité.
 
-
-#### See thread message
-
-You can see a thread in a specific view. Hover over in one, the button `Show on the right` . A side panel opens.
-
-### Integration
+### Intégration
 
 #### Gif 
 
-You can send gif in your channel. Just clic gif icon to open a gif selector.
+Pour envoyer des gif dans vos messages, il suffit de cliquer sur les `...` dans la barre d'outil de rédaction du message et de cliquer sur Giphy pour faire apparaître le sélecteur.
 
 ![](../../assets/giffy.gif)
 
-#### Call
+#### Visio-conférence
 
-If you need to call your team, there is native integration with Jitsi. Just click on the green button with the phone and a menu opens on the left to create a Jitsi call. Once the information is filled in, the call link is sent to your team.
+Si vous avez besoin d'une visioconférence, l'intégration avec Jitsi est possible antivement. Cliquez dans la barre d'outil de rédaction des messages sur l'icône caméra, et le lien sera publié pour l'équipe.
 
 
+#### Envoyer un document
 
-### Send document
-
-If you want to send a document through the chat, drag it from your computer and drop it into the chat. It will be uploaded and shared with your teammates.
-
-You can also send a document from Twake drive: click on the `+` button, to the left of the input. You can select a file from Twake and share it in the chat room.
+Pour envoyer un document via le chat, vous pouvez soit le glisser-déposer à partir de votre explorateur de fichier directement dans la fenêtre de rédaction du message, soit le coller dans cette fenêtre si vous l'avez copié dans votre presse-papier auparavant, ou en cliquant sur l'icône de trombone dans la barre d'outil de rédaction d'un message pour sélectionner le fichier voulu depuis le Drive de Twake ou votre ordinateur.
 

@@ -1,35 +1,35 @@
 ---
-description: 'Yes, we have desktop and mobile apps !'
+description: 'Bien sûr que nous avons une appli mobile & de bureau !'
 ---
 
-# Desktop and mobile app
+# Applications mobile & de bureau
 
-## Desktop
+## Bureau
 
-You can download Twake for Mac, Windows, Linux here: [https://github.com/linagora/Twake-Desktop/tree/master/download](https://github.com/linagora/Twake-Desktop/tree/master/download)
+Vous pouvez télécharger Twake pour Mac, Windows et Linux ici: [https://github.com/linagora/Twake-Desktop/tree/master/download](https://github.com/linagora/Twake-Desktop/tree/master/download)
 
-Click on the version according your OS, and click on "download" to get the desktop application.
+Cliquez sur la version de l'OS souhaité puis sur "Télécharger".
 
 ![](assets/download-github.png)
 
-### Switch to on-premise servers
+### Changer le serveur Twake utilisé
 
-On the desktop app, you can use the following options to change your server:
+Par défaut, l'application Twake est configuré pour se connecter au serveur de l'offre SaaS de Twake fournit par LINAGORA. Si vous souhaitez utiliser un autre serveurs, vous pouvez modifier la configuration en suivant l'une des deux méthodes ci-dessous.
 
-• On MacOS, click on Help &gt; Change Twake Server  
-• On Windows, MacOS and Linux, use the shortcut CTRL+ALT+SHIFT+S or CMD+ALT+SHIFT+S
+• Sur macOS, cliquer sur Aide &gt: Changer le serveur Twake ou bien Help &gt; Change Twake Server puis entrer l'URL du serveur souhaité.
+• Sur Windows, macOS et Linux, utiliser le raccourci clavier CTRL+ALT+SHIFT+S ou CMD+ALT+SHIFT+S puis entrez l'URL du serveur souhaité
 
 
 
-## Mobile App
+## Application Mobile
 
-The mobile app is available on iOS App Store and Android Play Store.
+L'application mobile est disponible pour iOS & Android sur l'App Store et le Play Store.
 
-### Switch to on-premise servers
+### Changer le serveur Twake utilisé
 
-On the mobile app, just log out and you should be able to change the server from the bottom left login page link "Change Server".
+Sur l'application mobile, il suffit de se déconnecter de l'application si vous l'êtes, et de cliquer en bas à gauche de la page de connexion sur "Changer le serveur", puis d'entrer l'URL du serveur souhaité.
 
-#### Push notifications on the on-premise mobile app
+#### Notifications push
 
-This feature is not yet available, say you want this feature using a "thumbs up" emoji here: [https://github.com/TwakeApp/Twake/issues/130](https://github.com/TwakeApp/Twake/issues/130)
+Cette fonctionnalité n'est pas encore disponible, faites nous part de votre souhait d'avoir cette fonctionnalité en mettant un emoji "pouce en l'air" ici: [https://github.com/TwakeApp/Twake/issues/130](https://github.com/TwakeApp/Twake/issues/130)
 

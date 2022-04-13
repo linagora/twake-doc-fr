@@ -1,47 +1,42 @@
 ---
-description: How to use the Twake console
+description: Comment utiliser la console Twake
 ---
 
 # Console
 
-The console is where you can manage your company and all information shared on Twake, LinShare and more.
+La console est l'endroit où vous pourrez gérer votre entreprise et toutes les informations partagées sur Twake, LinShare et plus.
 
+<!---  Formulation pas très claire --->
 
+## Utilisateurs
 
+En tant qu'administrateur, vous avez accès à la page de gestion des utilisateurs.
 
-
-
-## Users
-
-As user admin, you have access to the user management page.
-
-Open the console : [https://console.twake.app/](https://console.twake.app/) and open the page "Users".
+Ouvrez la console [console.twake.app](https://console.twake.app/) et cliquez sur `Membres` dans le menu de droite.
 
 
 
 ![User management page](../assets/console-user.png)
 
-### Add a user
+### Ajouter un utilisateur
 
-To work with your colleagues in your company, you have 2 choices : 
+Pour travailler avec vos collègues dans un entreprise, vous avez deux possibilités :
 
-* Create user account
-* Invite them by email
+* Créer un compte utilisateur
+* Inviter votre collègue par email
 
-You can also invite users from the chat : 
-
-{% page-ref page="../company-and-workspace/invite-user-from-chat.md" %}
+Vous pouvez aussi inviter des utilisateurs à partir du chat, voir : Entreprises > Inviter un utilisateur depuis un chat
 
 
 
-#### Send email invitation
+#### Envoyer une invitation par email
 
-To send an invitation, you can click on `Add user` &gt; `Invite users`.Enter emails you want to invite separated with coma. After validation, an email is sent to this address. Your colleagues will have a link to signup and join your company.
+Pour envoyer une invitation par mail, cliquez sur `Inviter les membres`, ajoutez les emails des personnes que vous souhaitez inviter séparé par des virgules puis cliquez sur `Inviter`. Un email est alors envoyé à chacune des adresses entrées. Vos collègues le recevront et n'auront qu'à cliquer sur le lien présent dans le mail pour rejoindre votre entreprise.
 
 ![Invite user](../assets/inviteuser.gif)
 
-#### Create user account
+#### Créer un compte utilisateur
 
-You can create directly accounts for your colleagues. For that, click on  `Add user`  &gt; `Create account`. After giving email, name and Role, you can specify a password \(or generate a random one\). You just have to send credentials to your teammate. 
+Vous pouvez directement créer des comptes pour vos collègues à partir de la console en cliquant sur `Créer un nouveau membre`, compléter les champs puis les valider en cliquant sur `Créer un utilisateur`. Une fois les champs complétés, vous pouvez renseigner ou générer aléatoirement un mot de passe. Vous n'avez plus qu'à envoyer les identifiants à votre collègue.
 
 ![](../assets/createuser.gif)

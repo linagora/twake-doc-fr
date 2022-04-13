@@ -12,7 +12,7 @@ Vous pouvez appartenir à plusieurs entreprises, pour changer d'entreprise, il s
 
 ![](../assets/changecomp.gif)
 
-//La distinction Entreprise/Espace de travail mériterait d'être complétée pour être plus claire
+<!--- La distinction Entreprise/Espace de travail mériterait d'être complétée pour être plus claire --->
 
 ## Espace de travail
 
@@ -30,9 +30,7 @@ Pour ce faire, ouvrez le menu en cliquant sur le nom de l'espace de travail, cli
 
 
 
-Vous pouvez aussi inviter des utilisateurs à partir de la console, référez-vous à la page dédiée :
-
-{% page-ref page="../console/users.md" %}
+Vous pouvez aussi inviter des utilisateurs à partir de la console, référez-vous à la page dédiée : Console > Utilisateurs
 
 
 
@@ -48,11 +46,10 @@ Le propriétaire est l'administrateur principale d'une entreprise. Il peut :
 
 * Permettre l'installation de connecteurs et d'applications dans les espaces de travail
 * Changer l'identité de l'entreprise
-* Donner et retirer les droits associé au rôle "Propriétaire de l'entreprise" à un membre de cette entreprise
+* Donner et retirer les droits associé au rôle "Admin de l'entreprise" à un membre de cette entreprise
 
-Le créateur de l'entreprise est le seul propriétaire. Ce rôle ne peut être changé, et seulement le créateur peut être le propriétaire de l'entreprise.
+Le créateur de l'entreprise est le seul propriétaire. Seul le propriétaire de l'entreprise peut transmettre son status de propriétaire.
 
-//N'est-ce pas contradictoire avec le 3e bullet point ci-dessus?
 
 
 ## Admin
@@ -61,11 +58,9 @@ Un admin a les mêmes droits que le propriétaire. Il peut:
 
 * Permettre l'installation de connecteurs et d'applications dans les espaces de travail
 * Changer l'identité de l'entreprise
-* Donner et retirer les droits associé au rôle "Propriétaire de l'entreprise" à un membre de cette entrepri>
+* Donner et retirer les droits associé au rôle "Admin de l'entreprise" à un membre de cette entreprise
 
-//Il me semble pertinent de revoir ici aussi le 3e bullet point
-
-Pour donner le rôle d'admin, ouvrez la console \([https://console.twake.app](https://console.twake.app)\), dans le menu, ouvrez la section `Membres`, puis cliquer sur `Éditer` sur le membre dont vous souhaitez modifier le rôle et sélectionnez `Admin` avant de sauvegarder.
+Pour donner le rôle d'admin, ouvrez la console \([console.twake.app](https://console.twake.app)\), dans le menu, ouvrez la section `Membres`, puis cliquer sur `Éditer` sur le membre dont vous souhaitez modifier le rôle et sélectionnez `Admin` avant de sauvegarder.
 
 ![](../assets/setadmin.gif)
 
@@ -96,7 +91,7 @@ Le rôle d'utilisateur est le rôle par défaut des membres de l'espace de trava
 * Créer, modifier, supprimer des documents du drive
 * Créer, éditer, supprimer des évènement et des calendriers
 * Créer, modifier, supprimer des tâches 
-//Qu'est-ce que "tables" dans la version anglaise?
+<!-- Qu'est-ce que "tables" dans la version anglaise? --> 
 * Créer un espace de travail dans l'entreprise
 
 Comme c'est le rôle par défaut, c'est le rôle attribué à tout utilisateur qui n'est ni administrateur de l'entreprise, ni administrateur de l'espace de travail, ni invité.
@@ -109,9 +104,9 @@ Ce rôle est prévu pour les partenaires externes à l'organisation qui nécessi
 
 En tant qu'invité, ils ne peuvent pas rejoindre n'importe quelle chaîne par eux même - même s'il est public. Ils doivent être invités par un utilisateur ayant au moins le droit Utilisateur.
 
-Pour donner le rôle d'invité à un utilisateur, modifiez son rôle dans la console \([https://console.twake.app](https://console.twake.app)\), en passant par la page `Utilisateurs`.
+Pour donner le rôle d'invité à un utilisateur, modifiez son rôle dans la console \([console.twake.app](https://console.twake.app)\), en passant par la page `Utilisateurs`.
 
 ![](../assets/setguest.gif)
 
-//Nécessaire de préciser ici comment inviter un utilisateur externe avec le statut "Invité" par défaut; nécessaire de l'ajouter d'abord dans la console, puis changer ses droits?
+<!-- Nécessaire de préciser ici comment inviter un utilisateur externe avec le statut "Invité" par défaut; nécessaire de l'ajouter d'abord dans la console, puis changer ses droits? -->
 

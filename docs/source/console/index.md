@@ -6,13 +6,13 @@ description: Comment utiliser la console Twake
 
 La console est l'endroit où vous pourrez gérer votre entreprise et toutes les informations partagées sur Twake, LinShare et plus.
 
-//Formulation pas très claire
+<!---  Formulation pas très claire --->
 
 ## Utilisateurs
 
 En tant qu'administrateur, vous avez accès à la page de gestion des utilisateurs.
 
-Ouvrez la console ![https://console.twake.app/](https://console.twake.app/) et cliquez sur `Membres` dans le menu de droite.
+Ouvrez la console [console.twake.app](https://console.twake.app/) et cliquez sur `Membres` dans le menu de droite.
 
 
 
@@ -25,9 +25,7 @@ Pour travailler avec vos collègues dans un entreprise, vous avez deux possibili
 * Créer un compte utilisateur
 * Inviter votre collègue par email
 
-Vous pouvez aussi inviter des utilisateurs à partir du chat, voir :
-
-{% page-ref page="../company-and-workspace/invite-user-from-chat.md" %}
+Vous pouvez aussi inviter des utilisateurs à partir du chat, voir : Entreprises > Inviter un utilisateur depuis un chat
 
 
 

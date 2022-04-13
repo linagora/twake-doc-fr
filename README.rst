@@ -9,6 +9,8 @@ Clone
   git clone https://github.com/linagora/twake-doc-fr
   
   cd twake-doc-fr
+
+  python3 pip install requirement.txt
   
   # edit files inside docs/source/
 
@@ -21,6 +23,8 @@ Build locally
   cd docs
 
   make -b html
+
+  python3 -m sphinx source build
 
   # open docs/build/html/index.html
 

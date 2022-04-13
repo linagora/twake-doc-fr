@@ -5,10 +5,8 @@ description: Fonctionnement du chat Twake
 # Chat
 
 Le chat est le coeur de Twake : c'est ici que vous communiquez avec votre équipe, les deux notions fondamentalles sont les suivantes:
-
-{% page-ref page="channels.md" %}
-
-{% page-ref page="message.md" %}
+- Chaine de discussion
+- Message
 
 
 ## Chaînes
@@ -16,8 +14,6 @@ Le chat est le coeur de Twake : c'est ici que vous communiquez avec votre équip
 ### Créée une chaîne
 
 Pour créer une chaîne, vous devez avoir le rôle d'administrateur de l'espace de travail en question.
-
-{% page-ref page="../../company-and-workspace/rights.md" %}
 
 Pour créer une chaîne, cliquez sur le bouton `+` à droite du titre `Chaînes`, puis `Créer une chaîne`, entrez le nom de la nouvelle chaîne, sélectionnez l'emoji qui vous plaît le plus, et la confidentialité de la chaîne publique ou privée).
 
@@ -88,12 +84,6 @@ Vous pouvez réagir aux message avec un ou plusieurs émoji. Survolez le message
 Dans le cadre d'une discussion déjà entamée, vous pouvez y participer et répondre à une sollicitation en cliquant sur `Répondre` en bas de cette conversation?
 
 ![](../../assets/responsemessage.gif)
-
-#### Réorganisation du chat 
-//Is it deprecated?
-Vous pouvez réorganiser le chat en faisant glisser-déposer les messages ou les conversations.
-
-![](../../assets/d-and-dmessage.gif)
 
 
 #### Voir un fil de discussion

@@ -17,13 +17,6 @@ Pour créer une chaîne, vous devez avoir le rôle d'administrateur de l'espace 
 
 Pour créer une chaîne, cliquez sur le bouton `+` à droite du titre `Chaînes`, puis `Créer une chaîne`, entrez le nom de la nouvelle chaîne, sélectionnez l'emoji qui vous plaît le plus, et la confidentialité de la chaîne publique ou privée).
 
-### Organisation des chaînes
-
-Vous pouvez organiser vos chaînes en les regroupant. Si vous avez le rôle d'`Administrateur`, vous pouvez faire glisser une chaîne dans la barre de menu à gauche et la déposer dans la section souhaitée: `Ajouter ici` ou dans `Nouveau groupe`.
-
-Pour éditer le nom d'une section, vous pouvez cliquer dessus, modifier le nom et confirmer en cliquant sur `Entrée`.
-
-![](../../assets/channel-move.gif)
 
 ### Chaîne publique
 
@@ -31,7 +24,7 @@ Les chaînes publiques sont visible pour tous les membres de l'espace de travail
 
 ### Chaîne privée
 
-Les chaînes privées ne sont accessibles qu'à un nombre limité d'utiilsateurs qui doivent y être invités. Les utilisateurs non présent dans ces chaînes ne peuvent pas les voir dans leur espace de travail.
+Les chaînes privées ne sont accessibles qu'à un nombre limité d'utilisateurs qui doivent y être invités. Les utilisateurs non présent dans ces chaînes ne peuvent pas les voir dans leur espace de travail.
 
 #### Modifier la liste des membres d'une chaîne privée
 

@@ -87,7 +87,7 @@ Pour donner le rôle d'admin au niveau d'un espace de travai, ouvrez le menu en 
 
 Le rôle d'utilisateur est le rôle par défaut des membres de l'espace de travail. Il peut:
 
-* Lire et envoyer des messages sur les cannaux de chat privés \(ceux auxquels il a été invité\) et publics
+* Lire et envoyer des messages sur les canaux de chat privés \(ceux auxquels il a été invité\) et publics
 * Créer, modifier, supprimer des documents du drive
 * Créer, éditer, supprimer des évènement et des calendriers
 * Créer, modifier, supprimer des tâches 
